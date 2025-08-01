@@ -1,5 +1,5 @@
- │ ├── main.py 👈 Your bot code
- ├── requirements.txt         👈 All pip libraries Heroku style) 
+ │ ├── main.py               👈 Your bot code
+ ├── requirements.txt        👈 All pip libraries Heroku style) 
  ├── scrape.py                👈 scraping script
  └── READ
  
